@@ -2,4 +2,5 @@ AMR data
  
 100,000 rows of 12 variables
 
+* id, an integer value
 

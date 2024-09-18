@@ -1,0 +1,25 @@
+    1  cd ..
+    2  ls
+    3  cd ..
+    4  mv R\ for\ AMR\ Epidemiologists ../
+    5  mv R\ for\ AMR\ Epidemiologists /c/Users/michele.padovan/
+    6  pwd
+    7  ls
+    8  cd data-dictionary/
+    9  ls
+   10  git config --global --list
+   11  git init
+   12  git status
+   13  git add amr-data-dictionary.txt 
+   14  git status
+   15  git commit -m "Start data dictionary"
+   16  nano amr-data-dictionary.txt 
+   17  git status
+   18  git diff
+   19  :w
+   20  git add
+   21  git add .
+   22  git diff 
+   23  git status
+   24  history
+   25  history >> prompts.txt
